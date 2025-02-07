@@ -1,3 +1,5 @@
-env
+__pycache__
+env/
+data/
 RecipeNLG_dataset.csv
 recipe_vector_db
